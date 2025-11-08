@@ -1,0 +1,9 @@
+com\example\deviceapi\service\DeviceService.class
+com\example\deviceapi\model\DeviceType.class
+com\example\deviceapi\model\Device.class
+com\example\deviceapi\web\RestExceptionHandler.class
+com\example\deviceapi\controller\DeviceController.class
+com\example\deviceapi\repo\DeviceRepository.class
+com\example\deviceapi\model\DeviceType$1.class
+com\example\deviceapi\DeviceApiApplication.class
+com\example\deviceapi\model\NetworkNode.class
